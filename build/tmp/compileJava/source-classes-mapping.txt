@@ -1,0 +1,2 @@
+ru/zetcraft/Main.java
+ ru.zetcraft.Main
